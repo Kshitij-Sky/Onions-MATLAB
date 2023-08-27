@@ -20,4 +20,4 @@ Overall, this code showcases a pipeline for image processing, feature extraction
 
 The feature weights based on NCA are as follows:
 
-![image](Results/Feature weights.png)
+![image](Feature_weights.png)
